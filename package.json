@@ -17,7 +17,7 @@
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.19",
     "react-icons": "^4.7.1",
-    "swiper": "^8.4.5",
+    "swiper": "^8.4.7",
     "tailwindcss": "^3.2.4"
   }
 }
